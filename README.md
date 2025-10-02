@@ -34,5 +34,4 @@ This website showcases the activities, projects, and events of the Automation Cl
 
 ## 🚨 Maintenance Notice
 **Current Status: 🟡 Site Under Maintenance**
-
 The website is currently undergoing updates and improvements. Some features might be temporarily unavailable.
