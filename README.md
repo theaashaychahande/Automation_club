@@ -32,7 +32,7 @@ This website showcases the activities, projects, and events of the Automation Cl
   - [Font Awesome](https://fontawesome.com/) - Icons
   - [Google Fonts](https://fonts.google.com/) - Typography
 
-##🚨 Maintenance Notice
+## 🚨 Maintenance Notice
 **Current Status: 🟡 Site Under Maintenance**
 
 The website is currently undergoing updates and improvements. Some features might be temporarily unavailable.
