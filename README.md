@@ -4,7 +4,7 @@ A modern, responsive website for the Automation Club of SVPCET Mechanical Engine
 
 ## 🌟 About
 
-This website showcases the activities, projects, and events of the Automation Club at Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore. Built with cutting-edge web technologies, it features an interactive user experience with smooth animations and a futuristic design.
+This website showcases the activities, projects, and events of the Automation Club at St.Vincent pallotti college of engineering and technology, nagpur. Built with cutting-edge web technologies, it features an interactive user experience with smooth animations and a futuristic design.
 
 ## ✨ Features
 
