@@ -1,6 +1,7 @@
 # Automation Club Website
 
 A modern, responsive website for the Automation Club of SVPCET Mechanical Engineering Department.
+https://automationclub.netlify.app/
 
 ## 🌟 About
 
